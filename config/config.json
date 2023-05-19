@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "allendeclemente@uc.cl",
+    "password": "19642997",
+    "database": "allendeclemente@uc.cl",
+    "host": "langosta.ing.puc.cl",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
